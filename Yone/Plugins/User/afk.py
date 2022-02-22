@@ -64,12 +64,12 @@ def no_longer_afk(update: Update, context: CallbackContext):
         firstname = update.effective_user.first_name
         try:
             options = [
-                "{} is here!",
-                "{} is back!",
-                "{} is now in the chat!",
-                "{} is awake!",
-                "{} is back online!",
-                "{} is finally here!",
+                "{} iss heznsre!",
+                "{} idbs bdnack!",
+                "{} idns ndhsbsdow in the chat!",
+                "{} ifns awake!",
+                "{} ifns backd online!",
+                "{} ids finaflly here!",
                 "Welcome back! {}",
                 "Where is {}?\nIn the chat!",
             ]
