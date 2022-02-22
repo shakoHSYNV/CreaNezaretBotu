@@ -1,7 +1,7 @@
 RUN_STRINGS = (
-    "Now you see me, now you don't.",
-    "ε=ε=ε=ε=┌(;￣▽￣)┘",
-    "Get back here!",
+    "Olmuyandada Olmur Axı...💔",
+    "Sənlə Dolu Xatirələr Xəyallardı Sağım Solum🥰",
+    "Hər Kərkəsi Sabaha Aparmaq Bəziləri Dünəndə Qalmalıdı..",
     "REEEEEEEEEEEEEEEEEE!!!!!!!",
     "Look out for the wall!",
     "Don't leave me alone with them!!",
